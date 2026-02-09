@@ -18,7 +18,7 @@ Human errors such as overstocking or stock shortages
 Lack of a structured way to update and manage inventory
 There is a need for a simple and organized system to manage inventory efficiently.
 
- SolutionL:
+ Solution:
  
 To address these challenges, this project provides a console-based Stock Management System that allows users to:
 Manage inventory items
